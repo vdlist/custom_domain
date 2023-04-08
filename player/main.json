@@ -1,0 +1,8 @@
+{
+  "status" :true,
+  "banner" : "/6499/example/banner",
+  "ini" : "/6499/example/interstitial" ,
+  "native" : "/6499/example/app-open",
+  "fk":"https://vdlistinmm.xyz/ktservices/blogger/f.json",
+   "main":"https://vdlistinmm.xyz/ktservices/"
+}
