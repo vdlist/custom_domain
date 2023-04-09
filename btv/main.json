@@ -1,4 +1,4 @@
-{
+/*{
   "status" :true,
   "banner" : "test",
   "ini" : "2630997917043038_2631000420376121" ,
@@ -6,4 +6,21 @@
 "fk":"https://vdlisttokyo1.online/hlivetv/",
    "main":"https://vdlistinmm.xyz/fblive2/",
    "change":"new"
+}*/
+{
+
+  "status" :true,
+
+  "banner" : "test",
+
+  "ini" : "2630997917043038_2631000420376121" ,
+
+  "native" : "2630997917043038_2632207476922082",
+
+"fk":"https://vdlistinmm.xyz/hlivetv/",
+
+   "main":"https://vdlistinmm.xyz/fblive2/",
+
+   "change":"new"
+
 }
