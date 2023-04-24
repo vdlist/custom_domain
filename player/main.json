@@ -1,16 +1,16 @@
-/*{
+{
   "status" :true,
   "banner" : "/6499/example/banner",
   "ini" : "/6499/example/interstitial" ,
   "native" : "/6499/example/app-open",
   "fk":"https://vdlistinmm.xyz/ktservices/blogger/f.json",
    "main":"https://vdlistinmm.xyz/ktservices/"
-}*/
-{
+}
+/*{
   "status" :true,
   "banner" : "ca-app-pub-3147622626741973/9924515889",
   "ini" : "ca-app-pub-3147622626741973/2715028130" ,
   "native" : "ca-app-pub-3147622626741973/7775783122",
   "fk":"https://vdlistinmm.xyz/ktservices/blogger/f.json",
    "main":"https://vdlistinmm.xyz/ktservices/"
-}
+}*/
